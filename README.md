@@ -5,8 +5,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>রেফারেল রিইওয়ার্ড অ্যাপ</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
+  <link href="<script type="text/javascript">
+	atOptions = {
+		'key' : 'ac235f01580a713955e5adfb27e062ea',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/ac235f01580a713955e5adfb27e062ea/invoke.js"></script>
+  <script type='text/javascript' src='//pl26953656.profitableratecpm.com/16/c8/e1/16c8e1d709e258fd49a4d252feb92bfd.js'></script>
     body {
       margin: 0;
       font-family: 'Poppins', sans-serif;
